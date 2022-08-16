@@ -1,0 +1,26 @@
+/* .nav{
+    border: black 3px;
+    width: 30%;
+    margin: 0 auto;
+    padding: 1rem;
+    background:darkblue;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: auto;    
+} */
+
+
+@media(min-width: 768px){
+    .email-input {
+        width:50%
+    }
+}
+
+.class-input{
+    font-style: italic;
+    margin: 1%;
+    padding: 1rem;
+    border-radius: 25px;
+    /* width: 40%; */
+    
+}
